@@ -1,4 +1,4 @@
-# gulp-template Болванка для начала проэкта на SCSS
+# gulp-template Болванка для начала проекта на SCSS
 
 Start:
 ~$ npm i
